@@ -1,7 +1,3 @@
-## 课程学习笔记以及重点知识讲解：https://blog.csdn.net/brad_pitt7
-
-
-
 ## 基于 SpringBoot+Maven+Mybatis+Redis+RabbitMQ 高并发商城秒杀系统
 ## 开发工具 
 IntelliJ IDEA 2017.3.1 x64
@@ -35,28 +31,3 @@ IntelliJ IDEA 2017.3.1 x64
 3. 使用页面静态化，缓存页面至浏览器，前后端分离降低服务器压力。
 4. 使用消息队列完成异步下单，提升用户体验，削峰和降流。
 5. 安全性优化：双重md5密码校验，秒杀接口地址的隐藏，接口限流防刷，数学公式验证码。
-
-## 图片演示
-登录页面
-
-![Image text](https://github.com/pitt1997/miaosha_idea/blob/master/showimgs/login.png)
-
-商品列表页面
-
-![Image text](https://github.com/pitt1997/miaosha_idea/blob/master/showimgs/list.png)
-
-商品详情页面
-
-![Image text](https://github.com/pitt1997/miaosha_idea/blob/master/showimgs/goodsdetail.png)
-
-商品秒杀倒计时
-
-![Image text](https://github.com/pitt1997/miaosha_idea/blob/master/showimgs/wait.png)
-
-成功秒杀页面
-
-![Image text](https://github.com/pitt1997/miaosha_idea/blob/master/showimgs/miaoshasuccess.png)
-
-## 更多知识
-个人博客： https://blog.csdn.net/brad_pitt7
-
